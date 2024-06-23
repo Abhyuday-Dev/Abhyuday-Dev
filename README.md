@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Abhyuday, a passionate and skilled MERN stack developer, currently pursuing my Computer Science degree at IIIT Sonepat. 
+I am Abhyuday, a passionate and skilled Full stack developer, currently pursuing my Computer Science degree at IIIT Sonepat. 
 
 
 ## 🌐 Socials:
